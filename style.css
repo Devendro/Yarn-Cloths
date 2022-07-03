@@ -1,0 +1,49 @@
+body {
+  overflow: hidden;
+  }
+
+/*header*/
+  .header {
+  background-image: url('header_img.png');
+
+  background-size: 100% 100%;
+  height: 850px;
+  margin: -8px -8px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+
+  float: right;
+  padding: 70px 55px;
+  font-family: Cooper Black;
+  color: #0A2735;
+  font-size:27px;
+}
+
+li a {
+  text-decoration: none;
+}
+
+.login {
+  position: static;
+  margin-right: 120px
+}
+
+.logo {
+  float: left;
+  width: 180px;
+  margin-top: -30px;
+  padding-left: 120px;
+}
+
+h1 {
+  text-align: left;
+  font-family: DM serif;
+  font-style: italic;
+  font-size: 70px;
+
+}
