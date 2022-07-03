@@ -43,7 +43,7 @@ nav ul li {
   display: none;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1350px) {
   nav ul {
     position: absolute;
     top: 130px;
@@ -217,12 +217,15 @@ h3 {
   background-size: 100% 100%;
   background-repeat: no-repeat;
   height: 1150px;
+  align-items: center;
 }
 
 .cont3h1 {
   font-family: DM Serif;
+  font-size: 60px;
   padding: 60px 0 70px 160px;
   color: #0a2735;
+  align-self: flex-start;
 }
 
 .stylish-img {
